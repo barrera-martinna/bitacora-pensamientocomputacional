@@ -71,7 +71,23 @@ cuanto comienza valiendo la variable
 
 cuando se va a deteber 
 
-cada que va avariando 
+cada que va variando 
+
+# p2
+
+seno, coseno 
+
+crear function crea grupitos (carpetas) para organizar mejor el codigo 
+
+duplicar secciones grandes de codigos con solo una linea 
+y cambiar solo las variables necesarias 
+
+
+# revisar clase 06 en github de profe, ahi estan los encargos anteriores 
+
+
+
+
 
 
 
