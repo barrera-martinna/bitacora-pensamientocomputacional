@@ -1,3 +1,5 @@
+17-abril
+
 **frameCount();**
 
 te indica cuantos frames han existido desde que se inicio el codigo. / frames=fotogramas por segundo. 
