@@ -1,4 +1,4 @@
-# clase 03
+# clase 03 /10-abril
 
 ## soy un encabezado 2
 lorem impsum bla bla bla 
