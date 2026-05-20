@@ -35,8 +35,46 @@ lista de canciones:
   
   -agotamiento
   
-**aspectos a desarrollar y por que?**
-  la cancion "no tendre poder"
+**aspectos a desarrollar y por que?** 
+
+-reencuentro en los laberintos
+
+-etapa emocional confusa
+
+-ternura, nostalgia, nerviosismo
+
+-atrapado emocionalmente
+
+-aceptar lo bueno y lo malo
+
+-tranquilidad
+
+-aprender a vivir
+**cosas aprendidad**
+
+**ideas**
+
+que el fonod sea rojo oscuro y baje la opacidad 
+
+
+# variaciones por tener 
+
+-color
+
+-posicion
+
+-rotar
+
+-color
+
+-forma
+
+-movimiento lineal o discontinuo 
+
+-opacidad
+
+-emergencia
+
 
   **conclusion del proceso**
   -¿Cómo se compara lo que querían desarrollar con el resultado final?
