@@ -1,7 +1,8 @@
 # info solemne disco p.c
 
-album: doler crece
-año: 2022
+album: Juventud americana
+
+año: 2012
 
 artista: cristobal briceño 
 
