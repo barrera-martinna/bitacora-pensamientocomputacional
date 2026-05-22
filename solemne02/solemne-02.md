@@ -56,7 +56,7 @@ Vida, Pasión y Muerte
 ## Explicación del código (3 aspectos)
 
 ### Bloque de código 1
-
+> codigo para generar los textos
 ```js
 // Tu pedazo de código acá
 function dText(){
@@ -75,16 +75,12 @@ function dText(){
   //movimiento del texto 
   x1-= velocidad; //x1 disminuye ( mueve hacia izquierda)
   x2 += velocidad; //x2 suma (mueve hacia derecha)
-  
-  //creamos un loop el texto
-  if (x1 <-800) x1 = width; 
-  //si sale del borde izquierdo empieza rl loop desde x1
-  if (x2 > width) x2 = -1000; 
+
  
 ```
 
 ### Bloque de código 2
-
+> codigo para generar circulos creciendo
 ```js
 // Tu pedazo de código acá
 function dEfectoCirculos(){
@@ -113,9 +109,14 @@ function dEfectoCirculos(){
 ```
 
 ### Bloque de código 3
-
+> codigo para generar loop de texto
 ```js
 // Tu pedazo de código acá
+//creamos un loop el texto
+  if (x1 <-800) x1 = width; 
+  //si sale del borde izquierdo empieza rl loop desde x1
+  if (x2 > width) x2 = -1000; 
+ 
 ```
 
 ### Declaración sobre el uso de IA
@@ -130,13 +131,13 @@ function dEfectoCirculos(){
 
 - Prompts utilizados
 
-> le hice envio de mi codigo y luego le dije. Quiero que los textos que tengo de naif y mercedesz sean eternos como que nunca quede en blanco se espacio, como puedo hacer eso? explicame los codigos y todo bien detallado, no te saltes ningun paso, explicame cada linea.
-
+> le hice envio de mi codigo y luego le dije. Quiero que los textos que tengo de naif y mercedesz sean eternos como que nunca quede en blanco se espacio, como puedo hacer eso? explicame los codigos y todo bien detallado, no te saltes ningun paso, explicame cada linea.8 no logre implementar la idea) 
+> Le pedi ayuda para que ambos textos se movieran en direcciones opuestas y de manera regenerativa(bucle). le hice envio de mi codigo basico con los textos y le dije que el superior queria que saliera desde la esquina superior derecha y saliera por la izquierda y que fuera lo mismo pero al reves con el texto inferior.   
 
 
 - Secciones de código entregadas por la IA
-
-```js
+  
+```js 
 //código entregado por IA acá ( me hizo envio de toodo el codigo con la nueva funcion)
 
 let x1 = 0; // Empezamos en 0 para que sea más fácil calcular el pegado
@@ -214,4 +215,11 @@ function dEfectoCirculos() {
     }
   }
 }
-```
+```js ( me hizo envio de los codigos por partes)
+fill(270, 100, 20); // Define el color en HSB (un tono morado/oscuro)
+textAlign(LEFT, TOP); // El "ancla" del texto superior está en la esquina arriba-izquierda
+text ("NAIF NAIF...", x1, 1/6); // Se dibuja en la posición x1
+x1 -= velocidad; // Resta: mueve el texto hacia la IZQUIERDA
+x2 += velocidad; // Suma: mueve el texto hacia la DERECHA
+if (x1 < -800) x1 = width;
+if (x2 > width) x2 = -1000;
