@@ -5,11 +5,11 @@
 
 ## Integrantes del grupo
 
-- Martinna Barrera [cuentaGithub](https://github.com/cuentaGithub)
+- Martinna Barrera [barrera_martina](https://github.com/cuentaGithub)
 
 ## Descripción del disco
 
-![Portada de álbum xxxx yyyy](./img/cover.jpg)
+
 <img width="640" height="640" alt="naif" src="https://github.com/user-attachments/assets/482ca53a-589b-4d59-ab62-eb008c799295" />
 
 - Naif
