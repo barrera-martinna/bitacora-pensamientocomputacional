@@ -1,12 +1,13 @@
 
-**solemne plantilla editable mia** 
+
 
 # Plantilla para solemne-02
+- [Link a sketch de P5.js]
+https://editor.p5js.org/martinna/sketches/XJrix9dnz
 
 ## Integrantes del grupo
 
-- Martinna Barrera [barrera_martina](](https://github.com/barrera-martina))
-
+- Martinna Barrera [barrera_martina] (https://github.com/barrera-martinna)
 ## Descripción del disco
 
 
