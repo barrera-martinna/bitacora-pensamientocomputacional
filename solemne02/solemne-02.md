@@ -131,7 +131,8 @@ function dEfectoCirculos(){
 
 - Prompts utilizados
 
-> le hice envio de mi codigo y luego le dije. Quiero que los textos que tengo de naif y mercedesz sean eternos como que nunca quede en blanco se espacio, como puedo hacer eso? explicame los codigos y todo bien detallado, no te saltes ningun paso, explicame cada linea.8 no logre implementar la idea) 
+> le hice envio de mi codigo y luego le dije. Quiero que los textos que tengo de naif y mercedesz sean eternos como que nunca quede en blanco se espacio, como puedo hacer eso? explicame los codigos y todo bien detallado, no te saltes ningun paso, explicame cada linea.8 no logre implementar la idea)
+> 
 > Le pedi ayuda para que ambos textos se movieran en direcciones opuestas y de manera regenerativa(bucle). le hice envio de mi codigo basico con los textos y le dije que el superior queria que saliera desde la esquina superior derecha y saliera por la izquierda y que fuera lo mismo pero al reves con el texto inferior.   
 
 
