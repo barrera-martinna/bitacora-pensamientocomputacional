@@ -1,7 +1,7 @@
 
 
 
-# Plantilla para solemne-02
+#  Solemne-02
 - [Link a sketch de P5.js]
 https://editor.p5js.org/martinna/sketches/XJrix9dnz
 
