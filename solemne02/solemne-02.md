@@ -5,7 +5,7 @@
 
 ## Integrantes del grupo
 
-- Martinna Barrera [barrera_martina](https://github.com/cuentaGithub)
+- Martinna Barrera [barrera_martina](](https://github.com/barrera-martina))
 
 ## Descripción del disco
 
