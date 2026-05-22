@@ -1,3 +1,4 @@
+
 **solemne plantilla editable mia** 
 
 # Plantilla para solemne-02
@@ -9,6 +10,7 @@
 ## Descripción del disco
 
 ![Portada de álbum xxxx yyyy](./img/cover.jpg)
+<img width="640" height="640" alt="naif" src="https://github.com/user-attachments/assets/482ca53a-589b-4d59-ab62-eb008c799295" />
 
 - Naif
 - Año del álbum: 2024
